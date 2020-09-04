@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+  
+    <div id="body">
+    <h1>&#9918;숫자야구&#9918;</h1>
+    <div>
+        <textarea id="display"></textarea>
+    </div>
+
+    <div id="input">
+        <input id='a' onKeyup="moveNum(this)" maxlength="1">
+        <input id='b' onKeyup="moveNum(this)" maxlength="1">
+        <input id='c' onKeyup="moveNum(this)" maxlength="1">
+    </div>    
+
+    <div id="refresh">
+       <button onclick="location.reload()">refresh</button>
+    </div>
+ 
+    <script src="Baseball.js"></script>
+  </div>
+</body>

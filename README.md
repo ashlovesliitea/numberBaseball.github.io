@@ -1,5 +1,7 @@
 <숫자 야구게임!>
 
+Check my project at https://ashlovesliitea.github.io/numberBaseball.github.io/.
+
 숫자야구란 감춰진 3개의 숫자가 무엇인지 맞추는 게임입니다.
 Vanilla javascript 를 이용해 제작되었습니다.
 1) 새로고침할 때마다 3자리 숫자가 랜덤으로 결정됩니다.
